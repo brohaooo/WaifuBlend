@@ -11,3 +11,4 @@ You can download GNR's official model, or you can use mine finetuned one. I also
 
 ## Download EXE 
 [WaifuBlend](https://github.com/brohaooo/WaifuBlend/releases/tag/v1.0)
+![](example.png)
