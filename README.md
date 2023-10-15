@@ -2,7 +2,7 @@
 a python exe generate stylized anime girl images
 
 ## What is it
-Its an generated model's inference part based on [GNR](https://github.com/mchong6/GANsNRoses). It takes two images as input, one is photo-realistic human face and the other is anime girl face. 
+Its an generative model's inference part based on [GNR](https://github.com/mchong6/GANsNRoses). It takes two images as input, one is photo-realistic human face and the other is anime girl face. 
 Together it will generate an anime girl face based on the style code obtained from anime girl and content code obtained from human face. 
 
 ## How to use
